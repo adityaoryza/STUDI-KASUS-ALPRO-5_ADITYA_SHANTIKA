@@ -68,3 +68,7 @@ void BiayaSKS::keluar(int n){
       keluar(n - 1);
   }
 }
+//* Nama Anggota : -Aditya Oryza Mahendra
+                   -Shantika Adila Putri
+//* NIM : -2100018401
+          -2100018386
